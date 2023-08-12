@@ -1,0 +1,27 @@
+-- Customer Register
+-- Customer Login
+-- Staff Login
+
+##Customer
+--Customer Profile
+--Company Update profile
+--Change Password
+
+
+##Staff
+@DASHBOARD@
+
+@STAFF@
+-- Add Staff
+-- View Staff
+
+@SETTINGS@
+-- ADD LOAN TYPES
+-- VIEW LOAN TYPES
+-- ADD LOAN PROCEESING FEE
+-- VIEW LOAN PROCEESING FEE
+-- DELAY PAYMENT SETTINGS
+
+@STAFF ACCOUNT@
+-- Staff Profile
+-- Change password
